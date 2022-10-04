@@ -29,7 +29,7 @@ return [
     'Login' => 'Логін',
     'New password' => 'Новий пароль',
     'Leave blank if you don\'t want to change' => 'Залиште поле пустим, якщо не бажаєте змінювати',
-    'Имя' => 'І\'мя',
+    'Firstname' => 'І\'мя',
     'Lastname' => 'Прізвище',
     'Patronymic' => 'По-батькові',
     'Gender' => 'Стать',
@@ -39,6 +39,7 @@ return [
     'Company' => 'Компанія',
     'Position' => 'Посада',
     'Contact source' => 'Джерело контакту',
+    'Telephone' => 'Телефон',
     'City' => 'Місто',
     'Postcode' => 'Індекс',
     'Other/Note' => 'Додат. інфо.',
@@ -64,7 +65,7 @@ return [
     'Last Ip' => 'Останній Ip',
 
     // user without group
-    'WITHOUT_GROUP' => 'Without group',
+    'WITHOUT_GROUP' => 'Без групи',
 
     // user group
     'List of user groups' => 'Список груп користувачів',
@@ -88,7 +89,7 @@ return [
     'List of subscribers' => 'Список підписчиків',
     'Add address' => 'Добавити адресу',
     'Are you sure you want to delete the subscriber address?' => 'Ви справді бажаєте видалити адресу підписчика?',
-    'all' => 'To all',
-    'users' => 'Members',
-    'subscribers' => 'Subscribers',
+    'all' => 'Для всіх',
+    'users' => 'Користувачі',
+    'subscribers' => 'Підписники',
 ];

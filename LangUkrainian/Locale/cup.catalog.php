@@ -38,8 +38,7 @@ return [
     'Editing an Attribute' => 'Редагувати атрибут',
     'Are you sure you want to delete the attribute?' => 'Ви справді бажаєте видалити атрибут?',
     '<b>Warning</b>: The Boolean type can only be added to a category.' => '<b>Увага</b>: тип "Булеве" можна добавити лише до категорії.',
-    'Название атрибута. Можно оставить пустым, тогда значение будет сгенерировано автоматически. Допустимо использование только латинских символов и цифер без пробелов' =>
-        'Назва атрибута. Можна залишити пустим, тоді значення буде згенеровано автоматично. Допустиме використання лише латинських символів та цифер без пропусків',
+    'Attribute name. You can leave it blank, then the value will be generated automatically. Only Latin characters and numbers without spaces are allowed' => 'Назва атрибута. Можна залишити пустим, тоді значення буде згенеровано автоматично. Допустиме використання лише латинських символів та цифер без пропусків',
 
     // category
     'Brief description of the category' => 'Короткий опис категорії',
@@ -53,17 +52,14 @@ return [
     'Field name' => 'Назва поля',
     'Customized product field' => 'Інедивідуальне поле продукту',
     'Sort order' => 'Порядок',
-    'Название категории. Можно оставить пустым, тогда значение будет сгенерировано автоматически. Допустимо использование только латинских символов и цифер без пробелов' =>
-        'Назва категорії. Можна залишити пустим, тоді значення буде сгенеровано автоматично. Допустиме використання лише латинських символів та цифер без пропусків',
-    'Укажите название шаблона, который хотите использовать для данной категории или оставьте <b>catalog.category.twig</b>' =>
-        'Вкажіть назву шаблона, якийбажаєте використати для даної категорії або залиште <b>catalog.category.twig</b>',
-    'Укажите название шаблона, который хотите использовать для товаров в данной категории или оставьте <b>catalog.product.twig</b>' =>
-        'Вкажіть назву шаблона, якийбажаєте використати для товарів у даній категорії або залиште <b>catalog.product.twig</b>',
+    'Name of category. You can leave it blank, then the value will be generated automatically. It is allowed to use only Latin characters and numbers without spaces' => 'Назва категорії. Можна залишити пустим, тоді значення буде сгенеровано автоматично. Допустиме використання лише латинських символів та цифер без пропусків',
+    'Specify the name of the template you want to use for this category or leave <b>catalog.category.twig</b>' => 'Вкажіть назву шаблона, якийбажаєте використати для даної категорії або залиште <b>catalog.category.twig</b>',
+    'Specify the name of the template you want to use for products in this category or leave <b>catalog.product.twig</b>' => 'Вкажіть назву шаблона, якийбажаєте використати для товарів у даній категорії або залиште <b>catalog.product.twig</b>',
 
     // product
     'Import products' => 'Імпорт продуктів',
     'Export current product list' => 'Експорт поточного списку продуктів',
-    'Creation of a new product' => 'Створити продукт',
+    'Create product' => 'Створити продукт',
     'Объем упаковки' => 'Об\'єм упаковки',
     'Are you sure you want to uninstall the product?' => 'Ви справді бажаєте видалити продукт',
     'Product editing' => 'Редагування продукту',
@@ -81,9 +77,9 @@ return [
     'Discount' => 'Знижка',
     'Tax' => 'Податок',
     'Special' => 'Акція',
-    'Width (cm)' => 'Ширина (cm)',
-    'Height (cm)' => 'Висота (cm)',
-    'Length (cm)' => 'Довжина (cm)',
+    'Width (cm)' => 'Ширина (см)',
+    'Height (cm)' => 'Висота (см)',
+    'Length (cm)' => 'Довжина (см',
     'Volume' => 'Об\'єм',
     'Depends on the chosen dimension' => 'Залежить від обраної розмірності',
     'Dimension' => 'Розмірність',
@@ -91,7 +87,7 @@ return [
     '<b>Related products</b> are those products that the buyer uses together with already purchased goods that help them use, complement it, eliminate the consequences of using goods, are its replaceable parts, consumables, etc.' => '<b>Супутні товари</b> це ті товари, які покупець використовує разом з вже купленим товаром, які допомагають ним користуватися, доповнюють його, усувають наслідки від використання товару, є його змінними деталями, витратним матеріалом тощо ',
     'Add product' => 'Додати продукт',
     'Choose a category' => 'Виберіть категорію',
-    'Choose a product' => 'Виберіть товарt',
+    'Choose a product' => 'Виберіть товар',
     'Attribute from category' => 'Атрибут категорії',
     'Yes' => 'Так',
     'Specify individual attributes of the product' => 'Вкажіть індивідуальні атрибути товару',
@@ -102,7 +98,7 @@ return [
     'Invoice template' => 'Шаблон інвойсу',
     'Order statuses' => 'Статуси замовлення',
     'List of orders' => 'Список замовлень',
-    'Create order' => 'CСтворити замовлення',
+    'Create order' => 'Створити замовлення',
     'Client' => 'Клієнт',
     'Delivery and status' => 'Доставка та статус',
     'Are you sure you want to delete the order?' => 'Ви справді бажаєте видалити замовлення?',

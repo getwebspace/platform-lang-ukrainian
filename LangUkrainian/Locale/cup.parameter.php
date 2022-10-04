@@ -22,6 +22,7 @@ return [
     'Templates' => 'Шаблони',
     'Group and access rights' => 'Група та права доступу',
     'Login options' => 'Параметри входу',
+    'General' => 'Основні',
     'Import and Export' => 'Імпорт та Експорт',
     'Additionally' => 'Додатково',
 
@@ -46,7 +47,7 @@ return [
     'Time format' => 'Формат часу',
     'Site language (code)' => 'Код мови сайту',
     'Sets the language of the site and the value of the attribute <code>&lt;html lang="en"&gt;</code>' => 'Задає мову сайту та значення атрибуту <code>&lt;html lang="ru"&gt;</code>',
-    'For example: <code>en-US</code>' => 'Наприклад: <code>uk-UA</code>, <code>en-US</code>, <code>ru-RU</code>',
+    'For example: <code>en-US</code>' => 'Наприклад: <code>uk-UA</code>',
     'Automatically generate addresses' => 'Автоматично генерувати адреси',
     'Some entity addresses will automatically include the category address' => 'Адреси деяких сутностей автоматично включатимуть адресу категорії',
     'System E-Mail Address' => 'Системний E-Mail адрес',

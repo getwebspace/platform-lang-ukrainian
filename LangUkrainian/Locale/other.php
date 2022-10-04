@@ -5,15 +5,15 @@ return [
     // Common texts
     // ***
     'For example' => 'Для прикладу',
-    'Название' => 'Назва',
     'Title' => 'Назва',
     'Category' => 'Категорія',
     'Subcategories' => 'Підкатегорії',
     'Date of publication' => 'Дата публікації',
+    'Date' => 'Дата',
     'Status' => 'Статус',
     'Other' => 'Інше',
     'No data' => 'Немає даних',
-    'Сайт отключен!' => 'Сайт відключен!',
+    'Site disabled!' => 'Сайт відключен!',
     'Comment' => 'Коментар',
     'Print' => 'Роздрукувати',
     'Type' => 'Тип',
@@ -32,7 +32,7 @@ return [
     'Errors were found in the form, please check the fields highlighted in red, correct the errors and try again.' => 'У формі виявлено помилки, перевірте поля, виділені червоним, виправте помилки та повторіть спробу.',
     'Tags' => 'Теги',
     'Add tags' => 'Додайте теги',
-    'Требуется внимательная проверка значения!' => 'Потрібна ретельна перевірка вартості!',
+    'A careful check of the value is required!' => 'Потрібна ретельна перевірка вартості!',
 
     // ***
     // Sidebar
@@ -130,6 +130,6 @@ return [
     // Meta tags
     // ***
     'Meta tag Title' => 'Мета-тег Title',
-    'Meta tag Description' => 'Мета-тег Опис',
-    'Meta tag Keywords' => 'Мета-тег Ключові слова',
+    'Meta tag Description' => 'Мета-тег Description',
+    'Meta tag Keywords' => 'Мета-тег Keywords',
 ];
