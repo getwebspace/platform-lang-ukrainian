@@ -16,7 +16,7 @@ return [
     'Files and images' => 'Файли та зображення',
     'Notifications' => 'Сповіщення',
     'Forms' => 'Форми',
-    'Search' => 'Пошук',
+    'Search Options' => 'Пошук',
     'Guestbook' => 'Гостьова книга',
     'API' => 'AПІ',
     'Templates' => 'Шаблони',
