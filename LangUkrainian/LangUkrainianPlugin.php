@@ -11,9 +11,9 @@ class LangUkrainianPlugin extends AbstractPlugin
 {
     const NAME = 'LangUkrainianPlugin';
     const TITLE = 'Українська мова';
-    const AUTHOR = 'Sofiia Skladanivska';
+    const AUTHOR = 'Sofiia Skladanivska;Aleksey Ilyin';
     const AUTHOR_SITE = 'https://getwebspace.org';
-    const VERSION = '1.1.1';
+    const VERSION = '1.1.2';
 
     public function __construct(ContainerInterface $container)
     {

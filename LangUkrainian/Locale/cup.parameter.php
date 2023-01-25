@@ -182,6 +182,9 @@ return [
     'This key will be used in the HTML code of the site for users devices' => 'Цей ключ буде використаний у HTML-коді сайту на пристрої користувачів',
     'reCAPTCHA secret key' => 'Секретний ключ сервісу reCAPTCHA',
     'This key is needed for communication between the site and the reCAPTCHA service. Do not tell it to anyone' => 'Цей ключ потрібен для зв\'язку між сайтом та сервісом reCAPTCHA. Нікому його не повідомляйте',
+    'Site' => 'Сайт',
+    'Version' => 'Версія',
+    'The plugin has no settings' => 'У цього плагіна немає налаштувань',
 
     // variables
     'In this settings section, you can set additional global variables that can be easily used in a template.' => 'У цьому розділі налаштувань можна встановити додаткові глобальні змінні, які можна легко використовувати у шаблоні.',
