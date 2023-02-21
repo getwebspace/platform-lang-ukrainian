@@ -114,8 +114,6 @@ return [
     'The specified access rights will also be applied to an unregistered user' => 'Зазначені права доступу також будуть застосовані для незареєстрованого користувача',
     'Authorization method on the site' => 'Метод авторизації на сайті',
     'You can choose how users will be authorized on the site' => 'Ви можете вибрати, яким способом проводитиметься авторизація користувачів на сайті.',
-    'Deep authorization check' => 'Посилена перевірка авторизації',
-    'When enabled IP and User-Agent will be checked each time' => 'При включенні IP та User-Agent перевірятимуться щоразу',
     'List mode' => 'Варіант роботи списку',
     'List of domains for registration' => 'Список доменів для реєстрації',
     'Each domain on a new line' => 'Кожен домен з нового рядка',
