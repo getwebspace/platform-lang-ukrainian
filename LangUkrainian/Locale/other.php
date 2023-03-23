@@ -114,6 +114,7 @@ return [
     'Search' => 'Знайти',
     'Reset' => 'Скинути',
     'Submit' => 'Надіслати',
+    'Upload' => 'Завантажити',
 
     // ***
     // Image\images\files
