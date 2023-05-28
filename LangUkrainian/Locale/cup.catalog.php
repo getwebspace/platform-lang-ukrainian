@@ -77,6 +77,7 @@ return [
     'First price' => 'Ціна закупівлі',
     'Selling price' => 'Ціна продаж',
     'Price wholesale' => 'Оптова ціна',
+    'Price wholesale from' => 'Ціна оптом від',
     'Discount' => 'Знижка',
     'Tax' => 'Податок',
     'Special' => 'Акція',

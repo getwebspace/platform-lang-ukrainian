@@ -32,6 +32,7 @@ return [
     'Site title' => 'Назва сайту',
     'for example: "My home page"' => 'наприклад: "Моя домашня сторінка"',
     'Home page address' => 'Домашня сторінка сайту',
+    'Auto redirect to non-www' => 'Автоматично прибирати www.',
     'Enter the address of the home page of your site, including a slash at the end. For example: http://yoursite.com/' => 'Вкажіть адресу головної сторінки вашого сайту, включаючи слеш наприкінці. Наприклад: http://yoursite.com/',
     'Description (Description) of the site' => 'Опис (Description) сайту',
     'Short description, no more than 200 characters' => 'Короткий опис, не більше 200 символів',
