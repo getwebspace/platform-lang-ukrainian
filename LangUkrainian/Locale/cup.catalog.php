@@ -99,8 +99,8 @@ return [
     'Additional description' => 'Додатковий опис товару',
 
     // order
-    'Invoice template' => 'Шаблон інвойсу',
-    'Order statuses' => 'Статуси замовлення',
+    'Date From' => 'Дата додавання С',
+    'Date To' => 'Дата додавання По',
     'List of orders' => 'Список замовлень',
     'Create order' => 'Створити замовлення',
     'Client' => 'Клієнт',
@@ -113,6 +113,7 @@ return [
     'Delivery date' => 'Дата доставки',
     'Technical information' => 'Технічна інформація',
     'Order list' => 'Деталі замовлення',
+    'Order date' => 'Дата додавання',
 
     // order status
     'Create status' => 'Створити статус',
