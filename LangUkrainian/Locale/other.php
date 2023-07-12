@@ -4,6 +4,11 @@ return [
     // ***
     // Common texts
     // ***
+    'Content management system' => 'Система керування контентом',
+    'Admin panel login' => 'Вхід до панелі адміністратора',
+    'Login/E-Mail/Phone' => 'Логін/E-Mail/Телефон',
+    'Password' => 'Пароль',
+    'Sign In' => 'Увійти',
     'For example' => 'Для прикладу',
     'Title' => 'Назва',
     'Category' => 'Категорія',
@@ -33,6 +38,15 @@ return [
     'Tags' => 'Теги',
     'Add tags' => 'Додайте теги',
     'A careful check of the value is required!' => 'Потрібна ретельна перевірка вартості!',
+
+    // ***
+    // Forbidden page
+    // ***
+    'Access is denied' => 'В доступі відмовлено',
+    'You currently do not have access to the requested page!' => 'В даний час у вас немає доступу до запитаної сторінки!',
+    'If you are sure that the address is typed correctly:' => 'Якщо ви впевнені, що адреса введена правильно:',
+    'check permissions' => 'перевірте права доступу',
+    'contact the administrator' => 'зв\'яжіться з адміністратором',
 
     // ***
     // Sidebar

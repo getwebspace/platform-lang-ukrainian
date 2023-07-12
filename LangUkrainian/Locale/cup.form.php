@@ -21,6 +21,7 @@ return [
     'Form editing' => 'Редагування форми',
     'Form' => 'форма',
     'Recipients' => 'Отримувачі',
+    'Letter title' => 'Заголовок листа',
     'Brief description of the form' => 'Короткий опис форми',
     'Contact form' => 'Форма контактів',
     'Template' => 'Шаблон листа',
@@ -35,6 +36,7 @@ return [
     'Ability to disable reCAPTCHA validation individually for the current form.<br/>Default: enabled' => 'Можливість вимкнути перевірку reCAPTCHA індивідуально для поточної форми.<br/>За замовчуванням: увімкнено',
     'Duplicate data' => 'Дублювати дані',
     'The received data will be duplicated to the specified address in JSON format' => 'Отримані дані будуть продубльовані на вказану адресу у форматі JSON',
+    'Form address. You can leave it blank, then the value will be generated automatically. It is allowed to use only Latin characters and numbers without spaces' => 'Адреса форми. Ви можете залишити це поле порожнім, тоді значення буде згенеровано автоматично. Дозволяється використовувати лише латинські літери та цифри без пробілів.',
 
     // list data
     'List of applications received' => 'Список отриманих заявок',
