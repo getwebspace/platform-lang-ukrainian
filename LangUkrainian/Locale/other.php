@@ -107,6 +107,7 @@ return [
 
     'title' => 'Назва',
     'price' => 'Ціна',
+    'price_wholesale' => 'Оптова ціна',
     'stock' => 'На складі',
     'date' => 'Дата',
     'order' => 'Порядок',
