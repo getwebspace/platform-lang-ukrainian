@@ -28,6 +28,6 @@ return [
     'Guest book'  =>  'Гостьова книга',
     'Files'  =>  'Файли',
     'Settings'  =>  'Налаштування',
-    'Template editor'  =>  'Редактор шаблону',
+    'File editor' => 'Редактор файлів',
     'System log'  =>  'Журнал системи',
 ];
