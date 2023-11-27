@@ -2,18 +2,18 @@
 
 namespace Plugin\LangUkrainian;
 
-use App\Domain\AbstractPlugin;
+use App\Domain\Plugin\AbstractLanguagePlugin;
 use Psr\Container\ContainerInterface;
 use Slim\Psr7\Request;
 use Slim\Psr7\Response;
 
-class LangUkrainianPlugin extends AbstractPlugin
+class LangUkrainianPlugin extends AbstractLanguagePlugin
 {
     const NAME = 'LangUkrainianPlugin';
     const TITLE = 'Українська мова';
     const AUTHOR = 'Sofiia Skladanivska;Aleksey Ilyin';
     const AUTHOR_SITE = 'https://getwebspace.org';
-    const VERSION = '1.1.2';
+    const VERSION = '4.0.1';
 
     public function __construct(ContainerInterface $container)
     {
