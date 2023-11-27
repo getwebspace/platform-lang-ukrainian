@@ -5,17 +5,6 @@ return [
     // Catalog
     // ***
 
-    // system install
-    'New' => 'Новий',
-    'Processing' => 'В опрацюванні',
-    'Sent' => 'Відправлено',
-    'Delivered' => 'Доставлено',
-    'Canceled' => 'Скасовано',
-    'Kilogram' => 'Килограм ', 'кг' => 'kg',
-    'Gram' => 'Грам', 'г' => 'g',
-    'Liter' => 'Літр', 'л' => 'l',
-    'Milliliter' => 'Міліметр', 'мл' => 'ml',
-
     // sidebar
     'Order added' => 'Добавлено замовлення',
 
@@ -112,23 +101,28 @@ return [
     'Delivery address' => 'Адреса доставки ',
     'Delivery date' => 'Дата доставки',
     'Technical information' => 'Технічна інформація',
-    'Order list' => 'Деталі замовлення',
-    'Order date' => 'Дата додавання',
-
-    // order status
     'Create status' => 'Створити статус',
-    'Are you sure you want to delete the order status?' => 'Ви спраівді бажаєте видалити статус замовлення?',
-    'Create a new order status' => 'Створення нового статусу замовлення',
-    'Edit order status' => 'Редагування статусу замовлення',
+    'Order list' => 'Список замовлень',
+    'Order date' => 'Дата замовлення',
+    'Price type' => 'Тип ціни',
+    'More' => 'Більше',
+    'Select user' => 'Вибрати користувача',
 
-    // order invoice
-    'Invoice' => 'Накладна',
+    // order other
+    'Invoice' => 'Інвойс',
+    'Dispatch Note' => 'Товарна накладна',
     'Order' => 'Замовлення',
     'Delivery' => 'Доставка',
     'Shipping' => 'Доставка',
     'Item' => 'Позиція',
     'Price' => 'Ціна',
+    'Subtotal' => 'Сума',
+    'Total' => 'Всього',
+    'Count items' => 'Кількість',
     'Quantity' => 'Кількість',
+    'Default step for adding to the cart' => 'Крок за замовчуванням для додавання в кошик',
+    'Minimum Quantity' => 'Мінімальна кількість',
+    'Force a minimum ordered amount' => 'Встановити мінімальну суму замовлення',
     'Sum' => 'Сума',
-    'Total price' => 'Загалом',
+    'Total price' => 'Загальна сума',
 ];

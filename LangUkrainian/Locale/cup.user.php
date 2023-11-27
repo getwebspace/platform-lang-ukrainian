@@ -73,6 +73,7 @@ return [
     'Count users' => 'Користувачів',
     'Permissions' => 'Права доступу',
     'Count' => 'Прав доступно',
+    'Permissions count' => 'Кількість дозволів',
     'No permissions' => 'Без прав',
     'Are you sure you want to delete the group?' => 'Ви справді баєжаєте видалити групу?',
 

@@ -21,6 +21,7 @@ return [
     'Link to view the article. You can leave it blank, then the value will be generated automatically. Only Latin characters and numbers without spaces are allowed' => 'Посилання для перегляду статті у браузері. Можна залишити порожнім, тоді значення буде згенеровано автоматично. Допустимо використання тільки латинських символів та цифер без пробілів',
     'Brief content' => 'Короткий зміст',
     'Full content' => 'Повний вміст',
+    'About Us' => 'Про нас',
 
     // ***
     // Publication category

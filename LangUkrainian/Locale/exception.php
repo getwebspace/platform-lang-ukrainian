@@ -5,6 +5,10 @@ return [
     // Error texts
     // ***
 
+    // ***
+    // Exceptions
+    // ***
+
     // exists
     'EXCEPTION_TITLE_ALREADY_EXISTS' => 'Назва вже існує',
     'EXCEPTION_ADDRESS_ALREADY_EXISTS' => 'Адреса вже існує',
@@ -20,7 +24,7 @@ return [
     'EXCEPTION_MESSAGE_MISSING' => 'Повідомлення відсутнє',
     'EXCEPTION_NAME_MISSING' => 'Ім\'я відсутнє',
     'EXCEPTION_USER_UUID_MISSING' => 'Користувач UUID відсутній',
-    'EXCEPTION_ACTION_VALUE_MISSING' => 'Значення дії відсутнє', 
+    'EXCEPTION_ACTION_VALUE_MISSING' => 'Значення дії відсутнє',
     'EXCEPTION_UNIQUE_MISSING' => 'Унікальне значення відсутнє',
 
     // not found
@@ -50,6 +54,7 @@ return [
     'EXCEPTION_WRONG_PHONE' => 'Телефон неправильного формату',
     'EXCEPTION_WRONG_IP' => 'Неправильний формат IP-адреси',
     'EXCEPTION_WRONG_CODE' => 'Невірний код',
+    'EXCEPTION_WRONG_TITLE' => 'Помилка в заголовку',
     'EXCEPTION_WRONG_CODE_TIMEOUT' => 'Ви можете оновлювати код авторизації кожні 10 хвилин',
     'EXCEPTION_WRONG_PASSWORD' => 'Неправильний пароль',
     'EXCEPTION_WRONG_GRECAPTCHA' => 'Помилка перевірки маркера Google Recaptcha',
