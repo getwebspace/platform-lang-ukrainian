@@ -25,6 +25,12 @@ return [
     'Decimal Places' => 'Десяткові знаки',
     'The value of your default currency in the current currency unit. Set to 1 for your default currency' => 'Значення вашої валюти за замовчуванням в поточній грошовій одиниці. Встановіть 1 для валюти за замовчуванням.',
 
+    // payments
+    'Payment methods' => 'Методи оплати',
+    'Create method' => 'Створення методу',
+    'Create a new payment method' => 'Створення нового методу оплати',
+    'Edit payment method' => 'Редагування методу оплати',
+
     // deliveries
     'Create a new delivery' => 'Створення нової доставки',
     'Edit delivery' => 'Редагування доставки',
@@ -45,6 +51,7 @@ return [
     'Edit order status' => 'Редагування статусу замовлення',
     'New' => 'Новий',
     'In processing' => 'У обробці',
+    'Payed' => 'Сплачено',
     'Sent' => 'Відправлено',
     'Delivered' => 'Доставлено',
     'Canceled' => 'Скасовано',
