@@ -13,6 +13,7 @@ return [
     'integer' => 'Ціле',
     'float' => 'Дробове',
     'boolean' => 'Булеве',
+    'Is filter' => 'Фільтр',
 
     // product type
     'product' => 'Продукт',
@@ -69,6 +70,7 @@ return [
     'Price wholesale from' => 'Ціна оптом від',
     'Discount' => 'Знижка',
     'Tax' => 'Податок',
+    'Tax included' => 'Включаючи податок',
     'Special' => 'Акція',
     'Width (cm)' => 'Ширина (см)',
     'Height (cm)' => 'Висота (см)',
@@ -88,8 +90,9 @@ return [
     'Additional description' => 'Додатковий опис товару',
 
     // order
-    'Date From' => 'Дата додавання С',
-    'Date To' => 'Дата додавання По',
+    'Date From' => 'Дата від',
+    'Date To' => 'Дата до',
+    'Payment method' => 'Спосіб оплати',
     'List of orders' => 'Список замовлень',
     'Create order' => 'Створити замовлення',
     'Client' => 'Клієнт',
@@ -101,7 +104,7 @@ return [
     'Delivery address' => 'Адреса доставки ',
     'Delivery date' => 'Дата доставки',
     'Technical information' => 'Технічна інформація',
-    'Create status' => 'Створити статус',
+    'Export current order list' => 'Експортувати поточний список замовлень',
     'Order list' => 'Список замовлень',
     'Order date' => 'Дата замовлення',
     'Price type' => 'Тип ціни',
@@ -125,4 +128,5 @@ return [
     'Force a minimum ordered amount' => 'Встановити мінімальну суму замовлення',
     'Sum' => 'Сума',
     'Total price' => 'Загальна сума',
+    'Create status' => 'Створити статус',
 ];

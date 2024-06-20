@@ -43,8 +43,14 @@ return [
 
     // store locations
     'Create a new store location' => 'Створення нового місця магазину',
+    'Edit store location' => 'Змінити розташування магазину',
     'Opening Times' => 'Час відкриття',
     'Fill in your stores opening times.' => 'Вкажіть час роботи магазинів.',
+
+    // manufacturers
+    'Manufacturers' => 'Виробники',
+    'Create a new manufacturer' => 'Створити нового виробника',
+    'Edit manufacturer' => 'Редагування виробника',
 
     // order statuses
     'Create a new order status' => 'Створення нового статусу замовлення',

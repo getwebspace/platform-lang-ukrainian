@@ -42,6 +42,7 @@ return [
     'List of applications received' => 'Список отриманих заявок',
     'Date received' => 'Дата отримання',
     'Are you sure you want to delete the entry?' => 'Ви справді бажаєте видалити запис?',
+    'Has files' => 'Має файли',
 
     // data view
     'Data received' => 'Отримані дані',

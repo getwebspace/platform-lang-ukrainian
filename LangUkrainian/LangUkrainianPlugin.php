@@ -13,7 +13,7 @@ class LangUkrainianPlugin extends AbstractLanguagePlugin
     const TITLE = 'Українська мова';
     const AUTHOR = 'Sofiia Skladanivska;Aleksey Ilyin';
     const AUTHOR_SITE = 'https://getwebspace.org';
-    const VERSION = '4.0.1';
+    const VERSION = '5.0.0';
 
     public function __construct(ContainerInterface $container)
     {
